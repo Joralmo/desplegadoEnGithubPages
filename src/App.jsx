@@ -16,7 +16,6 @@ function App() {
       <h1>Mi Gran Proyecto</h1>
       <div className="card">
         <h1>Proyecto desplegado en github pages</h1>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.</p>
       </div>
     </>
   );
